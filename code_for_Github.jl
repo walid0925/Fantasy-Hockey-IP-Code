@@ -29,10 +29,10 @@ num_lineups = 100
 num_overlap = 7
 
 # path_skaters is a string that gives the path to the csv file with the skaters information (see example file for suggested format)
-path_skaters = "example_skaters.csv"
+path_skaters = "dk_skaters.csv"
 
 # path_goalies is a string that gives the path to the csv file with the goalies information (see example file for suggested format)
-path_goalies = "example_goalies.csv"
+path_goalies = "dk_goalies.csv"
 
 # path_to_output is a string that gives the path to the csv file that will give the outputted results
 path_to_output= "output.csv"
